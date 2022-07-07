@@ -376,7 +376,7 @@ const result = 20 % 5 //result === 0
 const result = 20 % 7 //result === 6
 ```
 
-A reminder by zero is always `NaN`, a special value that means "Not a Number":
+A remainder by zero is always `NaN`, a special value that means "Not a Number":
 
 ```js
 ;(1 % 0) - //NaN
