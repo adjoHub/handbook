@@ -974,7 +974,7 @@ function getData() {
 let result = getData()
 ```
 
-`result` now holds a string with the the `hi!` value.
+`result` now holds a string with the `hi!` value.
 
 You can only return one value.
 
@@ -1104,7 +1104,7 @@ and we can only return one value.
 
 Arrow functions can contain other arrow function, or also regular functions.
 
-The are very similar, so you might ask why they were introduced? The big difference with regular functions is when they are used as object methods. This is something we'll soon look into.
+They are very similar, so you might ask why they were introduced? The big difference with regular functions is when they are used as object methods. This is something we'll soon look into.
 
 ## Objects
 
